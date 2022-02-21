@@ -46,7 +46,7 @@ function panggilData(data){
                 <div class="card-body">
                 <h5 class="card-title">${data.nama}<h5>
                 <p class="card-text">${data.deskripsi}</p>
-                    <h5>${data.harga}</h5>
+                    <h5>Rp. ${data.harga}</h5>
                     <a href="#" class="btn btn-primary">Beli Sekarang</a>
                     </div>
                 </div>
